@@ -146,7 +146,7 @@ graph TD;
    加密信息-->CSR;
    公钥-->CSR;
 ```
-[csr](./image/CSR创建.png)
+![csr](./image/CSR创建.png)
 
 ### 申请证书
 
