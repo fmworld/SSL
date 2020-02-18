@@ -149,8 +149,7 @@ graph TD;
 
 ### 申请证书
 
-```mermaid
-sequenceDiagram
+```sequence
     participant server
     participant AC颁发机构
     server->>AC颁发机构:CSR
@@ -164,8 +163,7 @@ sequenceDiagram
 
 ### 验证证书
 
-```mermaid
-sequenceDiagram
+```sequence
     participant client
     participant server
     participant AC颁发机构
