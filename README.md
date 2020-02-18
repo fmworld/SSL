@@ -161,7 +161,7 @@ graph TD;
     AC颁发机构->>server:server证书
 
 ```
-
+![csr](./image/证书颁发.png)
 ### 验证证书
 
 ```sequence
@@ -176,4 +176,4 @@ graph TD;
     Note left of client:计算证书指纹B
     Note left of client:指纹A,B对比
 ```
-
+![csr](./image/证书验证.png)
